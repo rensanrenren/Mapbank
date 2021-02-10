@@ -1,2 +1,1 @@
 # Mapbank
-Mapbankのデータ記録
